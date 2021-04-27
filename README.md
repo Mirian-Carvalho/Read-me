@@ -18,8 +18,8 @@ To contribute to the people to achieve their goals/challenges in a collaborative
 * Fault tolerance, understanding the weaknesses of others creates an empathic environment.
 ## My role as an project manager
 * **Engineering culture**: Ensure that projects are delivered according to the client needs, respecting the quality and safety protocols of EBANX;
-* **Results:**: Be transparent about the project's objectives, providing real information to stakeholders;
-* **People development:**: To Promote an environment of trust and collaboration with the project teams, supporting people to develop the best work and develop themselves for each delivery.
+* **Results:** Be transparent about the project's objectives, providing real information to stakeholders;
+* **People development:** To Promote an environment of trust and collaboration with the project teams, supporting people to develop the best work and develop themselves for each delivery.
 
 ## How can I help you?
 * **Sharing knowledge**: Through my experience, I can bring to the table, suggestions to help you make good decisions;
