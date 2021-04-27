@@ -14,7 +14,7 @@ To contribute to the people to achieve their goals/challenges in a collaborative
 * Owner mentality, contribute to propel the company;
 * Ethics is non-negotiable;
 * Interacting with colleagues from other areas, there is always more to learn;
-* Sharing your knowledge improves your personal performance, effectiveness, and skills;
+* Sharing your knowledge improves your personal performance, effectiveness and skills;
 * Fault tolerance, understanding the weaknesses of others creates an empathic environment.
 ## My role as an project manager
 * **Engineering culture**: Ensure that projects are delivered according to the client needs, respecting the quality and safety protocols of EBANX;
