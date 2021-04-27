@@ -1,4 +1,3 @@
-# Read-me
 # Mirian Jakeline Carvalho - (README)
 ## About this document
 This document is work in progress, and its motivation is to be a document about me.
