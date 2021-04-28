@@ -23,6 +23,6 @@ To contribute to the people to achieve their goals/challenges in a collaborative
 
 ## How can I help you?
 * **Sharing knowledge**: Through my experience, I can bring to the table suggestions to help you make good decisions;
-* **Integrate people:**: The best solutions come from a healthy level of discussion, I can help you to integrate the main resources to ensure good ideas;
-* **Performance:**: To perform my work with quality and diligence;
+* **Integrate people:** The best solutions come from a healthy level of discussion, I can help you to integrate the main resources to ensure good ideas;
+* **Performance:** To perform my work with quality and diligence;
 * Count on me, I will **work hard** to guarantee the continuous and incremental deliveries.
