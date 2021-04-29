@@ -2,6 +2,7 @@
 ## About this document
 This document is work in progress, and its motivation is to be a document about me.
 ## Who am I
+* Manuela's mother;
 * Passionate about dogs;
 * Tireless traveler;
 * A kind person;
